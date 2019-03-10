@@ -27,6 +27,8 @@ xlrd
 xlwt  
 virtualenvwrapper
 
+下载完成后安装依赖包: pip install -r requirment.txt 
+
 
 ### 4.安装  
 >    1.下载该项目到你的虚拟环境中，也可以选择不用虚拟环境！  
