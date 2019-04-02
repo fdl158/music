@@ -35,7 +35,7 @@ virtualenvwrapper
 
 >    2.下载完后，修改 **music/settings.py**里面的 **DATABASES** 数据库连接信息!  
 
->   3.然后进入项目下的music下,(根目录下有manage.py的目录)，目录执行 **python manage.py makemigration**  
+>   3.然后进入项目下的music下,(根目录下有manage.py的目录)，目录执行 **python manage.py makemigrations**  
 
 >   4.在执行 **python manage.py migrate**  
 
